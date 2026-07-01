@@ -39,7 +39,10 @@
 ```yaml
 Name: Rohit Kumar
 Role: Full Stack Developer
+Location: Bangalore, India
+Status: Final Year CSE Student (2026)
 Focus: Data Structures & Algorithms | System Design
+Stack: Java, Spring Boot, React
 Mission: Cracking Technical Interviews & Shipping Real-World Projects
 Philosophy: Consistency > Intensity — One Problem, One Commit a Day
 Current Target: SDE / Full Stack Developer Roles (2026)
