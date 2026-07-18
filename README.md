@@ -1,67 +1,66 @@
-<!--
-  ╔══════════════════════════════════════════════════════════════╗
-  ║           GOD LEVEL GITHUB PROFILE README - ROHIT            ║
-  ║              Full Stack Developer | DSA Enthusiast           ║
-  ╚══════════════════════════════════════════════════════════════╝
--->
+<!-- ╔══════════════════════════════════════════════════════════════════════════╗
+  ║  ★ PREMIUM GITHUB PROFILE README ★                                       ║
+  ║  Rohit Kumar | Java Full Stack Developer | B.E. CSE 2026 | Bengaluru, IN  ║
+  ╚══════════════════════════════════════════════════════════════════════════╝ -->
 
-<h1 align="center">Hi 👋, I'm Rohit Kumar</h1>
-<h3 align="center">Full Stack Developer | DSA & Interview Prep Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%92%BB;Solving+DSA+Problems+Daily+%F0%9F%93%8A;Building+Real+World+Projects+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+React;Consistency+%3E+Intensity+%E2%9A%A1" alt="Typing SVG" />
-</p>
+<!-- TYPING SVG HEADER -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I%27m+Rohit+Kumar;Java+Full+Stack+Developer+%F0%9F%92%BB;Spring+Boot+%7C+React+%7C+PostgreSQL+%7C+REST+APIs;300%2B+DSA+Solved+%E2%9A%A1+NeetCode+%2B+LeetCode;Open+to+SDE+%2F+Full+Stack+Roles+%282026%29;Consistency+%3E+Intensity+%F0%9F%94%A5" alt="Typing SVG" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rohitx05/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
-  </a>
-  <a href="https://neetcode.io/profile" target="_blank">
-    <img src="https://img.shields.io/badge/NeetCode-1a1a2e?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=1a1a2e" alt="NeetCode"/>
-  </a>
-  <a href="mailto:mrrishu4ever@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail"/>
-  </a>
-  <a href="https://instagram.com/ohh.rishu" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
-  </a>
-</p>
+<br/><br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mrrishu4ever&label=Profile%20Views&color=2F81F7&style=flat-square" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/Mrrishu4ever?label=Followers&style=flat-square&color=2F81F7" alt="followers"/>
-</p>
+<!-- WAVING BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:414868&height=200&section=header&text=Rohit%20Kumar&fontSize=48&fontColor=7aa2f7&animation=fadeIn&fontAlignY=32&desc=Java%20Full%20Stack%20Developer%20%7C%20B.E.%20CSE%20%2726%20%7C%20Bengaluru%2C%20India&descSize=15&descAlignY=58" />
+
+<br/><br/>
+
+<!-- SOCIAL BADGES -->
+<a href="https://www.linkedin.com/in/rohitx05/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:rktinku768@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://rohit-portfolio-fawn-sigma.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://neetcode.io/profile" target="_blank"><img src="https://img.shields.io/badge/NeetCode-1a1a2e?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="NeetCode"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Mrrishu4ever&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/Mrrishu4ever?label=Followers&style=for-the-badge&color=7aa2f7" alt="followers"/>
+
+</div>
 
 ---
 
-### 🚀 About Me
+### 🧑‍💻 About Me
 
 ```yaml
-Name: Rohit Kumar
-Role: Full Stack Developer
-Location: Bangalore, India
-Status: Final Year CSE Student (2026)
-Focus: Data Structures & Algorithms | System Design
-Stack: Java, Spring Boot, React
-Mission: Cracking Technical Interviews & Shipping Real-World Projects
-Philosophy: Consistency > Intensity — One Problem, One Commit a Day
-Current Target: SDE / Full Stack Developer Roles (2026)
+name: Rohit Kumar
+role: Java Full Stack Developer (Fresher)
+location: Bengaluru, Karnataka, India
+education:
+  degree: B.E. Computer Science
+  university: Vinayaka Mission's University
+  graduation: 2026
+  cgpa: 7.5 / 10
+internship:
+  org: JSpiders, Hebbal, Bengaluru
+  role: Java Full Stack Intern
+  status: Currently Pursuing
+target_roles: [SDE, Java Full Stack Developer, Backend Engineer]
+core_stack: [Java, Spring Boot, Hibernate, JPA, REST APIs, PostgreSQL, React.js]
+ai_skills: [Generative AI, Prompt Engineering, AI-assisted Dev Workflows]
+dsa_stats: 300+ problems solved on NeetCode & LeetCode
+open_to_relocation: true
 ```
 
-- 💻 **Full Stack Developer** — Building end-to-end web applications from UI to backend
-- 🎯 Focused on **Data Structures & Algorithms** and cracking technical interviews
-- 🧠 Solving problems consistently on **NeetCode** and **Striver's A2Z DSA Sheet**
-- 🌱 Strengthening **Java, Spring Boot**, and backend fundamentals
-- 🛠️ Building and deploying real-world **frontend/full-stack projects**
-- ⚡ Fun fact: Consistency > Intensity — one problem, one commit a day
+> 💡 "I don't just write code — I architect solutions. From ERP workflows to AI companions, I ship end-to-end."
 
 ---
 
 ### 🎓 Education
 
-| Degree | Field | Institution | Year | CGPA |
-|---|---|---|---|---|
-| Bachelor of Engineering | Computer Science & Engineering | Vinayaka Mission's University, Salem, Tamil Nadu | Expected: 2026 | 7.5 / 10 |
+| Degree | Institution | Year | CGPA |
+|---|---|---|---|
+| B.E. Computer Science & Engineering | Vinayaka Mission's University, Salem, Tamil Nadu | 2026 | 7.5 / 10 |
 
 ---
 
@@ -70,121 +69,163 @@ Current Target: SDE / Full Stack Developer Roles (2026)
 **Languages**
 
 <p>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 **Backend & Frameworks**
 
 <p>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HikariCP-1a1a2e?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+<img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Servlets-007396?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microservices-2496ED?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+</p>
+
+**Frontend**
+
+<p>
+<img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
+
+**Databases**
+
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
 **Tools & Platforms**
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
 
 ---
 
 ### 📊 GitHub Analytics
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Mrrishu4ever&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&rank_icon=github"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrrishu4ever&layout=compact&theme=tokyonight&langs_count=8"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Mrrishu4ever&theme=tokyonight&hide_border=true&border_radius=10" alt="streak stats"/>
-</p>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Mrrishu4ever&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrrishu4ever&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mrrishu4ever&theme=tokyo-night&hide_border=true&area=true" alt="activity graph"/>
-</p>
+<br/><br/>
 
----
+<img src="https://streak-stats.demolab.com/?user=Mrrishu4ever&theme=tokyonight&hide_border=true&border_radius=10" alt="streak stats"/>
 
-### 🏆 GitHub Trophies
+<br/><br/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mrrishu4ever&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&no-bg=true" alt="trophies"/>
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mrrishu4ever&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="activity graph"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Mrrishu4ever&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" width="95%" alt="trophies"/>
+
+</div>
 
 ---
 
-### 🧩 DSA & Problem Solving
+### 🧠 DSA & Problem Solving
+
+<div align="center">
 
 | Platform | Profile | Status |
 |---|---|---|
-| NeetCode | [neetcode.io/profile](https://neetcode.io/profile) | 🟢 Active |
-| LeetCode | [leetcode.com](https://leetcode.com) | 🟢 Active |
+| NeetCode | [neetcode.io/profile](https://neetcode.io/profile) | 🔥 Active |
+| LeetCode | [leetcode.com](https://leetcode.com) | 🔥 Active |
 
-**📁 DSA Repositories**
+</div>
 
-| Repository | Description | Language |
-|---|---|---|
-| [neetcode-submissions](https://github.com/Mrrishu4ever/neetcode-submissions) | My DSA solutions following the NeetCode roadmap | Java |
-
-🎯 **Goal:** Solve DSA problems daily following NeetCode 150 & Striver's A2Z DSA Sheet
+🎯 **Goal:** 300+ problems solved and counting — following the NeetCode 150 & Striver's A2Z DSA Sheet. One problem, one commit a day.
 
 ---
 
-### 💻 Featured Projects
+### 🚀 Featured Projects
 
-| Project | Description | Tech Stack | GitHub | Live Demo |
-|---|---|---|---|---|
-| **Rishu Portfolio** | Personal developer portfolio | React, CSS | [Repo](https://github.com/Mrrishu4ever/rishu_portfolio) | [🔗 Live](https://rohit-portfolio-fawn-sigma.vercel.app/) |
-| **Vaishno Devi** | Web application / landing page | HTML, CSS, JS | [Repo](https://github.com/Mrrishu4ever/vaishno-devi) | [🔗 Live](https://vaishno-devi.vercel.app/) |
-| **Shaff Birthday** | Interactive birthday web app | HTML, CSS, JS | [Repo](https://github.com/Mrrishu4ever/shaff-birthday) | [🔗 Live](https://shaff-birthday.vercel.app/) |
-| **Khushi Insta Landing Page** | Instagram-style landing page | HTML, CSS | [Repo](https://github.com/Mrrishu4ever/khushi-insta-landingpage) | [🔗 Live](https://khushi-insta-landing-page.vercel.app/) |
+| Project | Description | Tech Stack | Links |
+|---|---|---|---|
+| **Employee Management System** | Full-stack employee management app — secure auth, session handling & CRUD via a layered REST architecture | Spring Boot, Hibernate, JPA, PostgreSQL | Backend project |
+| **Secure ERP & Threat Monitoring Platform** | ERP system with an integrated real-time threat-monitoring module, RBAC & activity logging | Spring Boot, Microservices, REST APIs | [Repo](https://github.com/Mrrishu4ever/SECURE-ERP---THREAT-MONITORING) |
+| **Rishu Portfolio** | Personal developer portfolio — 3D tilt animations, particle effects, custom cursor | React.js, CSS | [Repo](https://github.com/Mrrishu4ever/rishu_portfolio) • [🔗 Live](https://rohit-portfolio-fawn-sigma.vercel.app/) |
+| **Ninja AI** | Context-aware AI assistant with a real-time Flask-SocketIO interface, sub-100ms response time | Python, Flask, SocketIO, SQLite | [Repo](https://github.com/Mrrishu4ever/Ninja_Ai) |
+| **Vaishno Devi** | Cinematic scroll-based trip memory site with an SVG trekking trail | HTML, CSS, JS | [Repo](https://github.com/Mrrishu4ever/vaishno-devi) • [🔗 Live](https://vaishno-devi.vercel.app/) |
+| **Khushi Insta Landing Page** | Influencer portfolio landing page for a digital creator | HTML, CSS | [Repo](https://github.com/Mrrishu4ever/khushi-insta-landingpage) • [🔗 Live](https://khushi-insta-landing-page.vercel.app/) |
+| **Shaff Birthday** | Interactive birthday scrapbook web app for a friend | HTML, CSS, JS | [Repo](https://github.com/Mrrishu4ever/shaff-birthday) • [🔗 Live](https://shaff-birthday.vercel.app/) |
 
-💡 **Tip:** Pin your top 6 repos from the profile page → "Customize your pins" for max visibility!
+<details>
+<summary>📁 Other Repositories (DSA practice, learning notes)</summary>
+<br/>
+
+| Repository | Description |
+|---|---|
+| [neetcode-submissions](https://github.com/Mrrishu4ever/neetcode-submissions) | DSA solutions following the NeetCode roadmap (Java) |
+| [qspiders-diaries](https://github.com/Mrrishu4ever/qspiders-diaries) | JSpiders training notes & code snippets |
+| [Java-Script](https://github.com/Mrrishu4ever/Java-Script) | JavaScript fundamentals & DOM manipulation practice |
+
+</details>
+
+💡 **Tip:** Pin your top 6 repos from your profile page → "Customize your pins" for maximum visibility!
 
 ---
 
-### 🏅 Achievements & Certifications
+### 🏆 Achievements & Certifications
 
-- 🥇 Solved 300+ DSA problems on NeetCode & LeetCode
-- 📜 Building real-world projects with React, Java & Spring Boot
-- 🚀 Consistent daily coding streak — Discipline is the key
+- 🥇 **300+ DSA problems** solved across NeetCode & LeetCode
+- ☁️ **AWS Value Added Course** — foundational cloud concepts including EC2, S3, and deployment workflows
+- 📄 **NCMSD 2024 Research Paper** — *"Smart Agricultural Harvesting and Forecasting Using Machine Learning"*, presented at a national engineering conference
+- 🤖 **Generative AI & Prompt Engineering** — building AI-assisted development workflows
+- 🛠️ **6+ full-stack projects** independently built and shipped, end-to-end, live on Vercel
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Mrrishu4ever/Mrrishu4ever/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
+> ⚠️ Needs a one-time GitHub Action setup in your `Mrrishu4ever/Mrrishu4ever` repo (`.github/workflows/snake.yml` using `Platane/snk`) — ask if you want the exact workflow file.
 
 ---
 
 ### 📫 Connect with Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/rohitx05/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://neetcode.io/profile">
-    <img src="https://img.shields.io/badge/NeetCode-1a1a2e?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
-  </a>
-  <a href="mailto:mrrishu4ever@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/ohh.rishu">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <i>⭐ From cracking DSA problems to shipping full-stack projects — one commit at a time.</i>
-</p>
+<a href="https://www.linkedin.com/in/rohitx05/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Mrrishu4ever" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://rohit-portfolio-fawn-sigma.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="mailto:rktinku768@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://neetcode.io/profile" target="_blank"><img src="https://img.shields.io/badge/NeetCode-1a1a2e?style=for-the-badge&logo=leetcode&logoColor=FFA116"/></a>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
+<br/><br/>
 
-<p align="center"><b>Thanks for visiting my profile! 🚀</b></p>
+💼 **Open to SDE / Java Full Stack Developer roles (2026 Fresher)**
+📍 Bengaluru, India | Open to Relocation
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:414868,50:24283b,100:1a1b26&height=120&section=footer" />
+
+⭐ **Thanks for visiting my profile — keep building, keep shipping.**
+
+</div>
